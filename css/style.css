@@ -1,0 +1,21 @@
+.setImg {
+    position: relative;
+    width:400px;
+    height:600px;
+    border:3px solid grey;
+    margin:100px auto;
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.prev {
+    position: absolute;
+    top:250px;
+}
+
+.next {
+    position: absolute;
+    right:0;
+    top:250px;
+}
